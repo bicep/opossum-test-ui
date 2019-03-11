@@ -1,0 +1,15 @@
+Z:\dev\Opossum\Shapes\Shapes\bin\Debug\Shapes.exe.config
+Z:\dev\Opossum\Shapes\Shapes\bin\Debug\Shapes.exe
+Z:\dev\Opossum\Shapes\Shapes\bin\Debug\Shapes.pdb
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\MainWindow.g.cs
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\App.g.cs
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes_MarkupCompile.cache
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes_MarkupCompile.lref
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\MainWindow.baml
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.g.resources
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.exe
+Z:\dev\Opossum\Shapes\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,17 @@
+Z:\dev\Opossum\Shapes\ShapesTest\obj\Debug\ShapesTest.csprojAssemblyReference.cache
+Z:\dev\Opossum\Shapes\ShapesTest\obj\Debug\ShapesTest.csproj.CoreCompileInputs.cache
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\ShapesTest.dll
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\ShapesTest.pdb
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Shapes.exe
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Shapes.pdb
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Shapes.exe.config
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\dev\Opossum\Shapes\ShapesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\dev\Opossum\Shapes\ShapesTest\obj\Debug\ShapesTest.csproj.CopyComplete
+Z:\dev\Opossum\Shapes\ShapesTest\obj\Debug\ShapesTest.dll
+Z:\dev\Opossum\Shapes\ShapesTest\obj\Debug\ShapesTest.pdb
